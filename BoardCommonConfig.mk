@@ -23,4 +23,3 @@ TARGET_NO_RPC := true
 
 # Radio
 COMMON_GLOBAL_CFLAGS += -DDISABLE_ASHMEM_TRACKING
-BOARD_RIL_CLASS := ../../../device/samsung/smdk4412-qcom-common/ril
